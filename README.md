@@ -27,4 +27,5 @@ A simple weather app made using HTML, CSS, and JavaScript. it fetches real-time 
 --- JavaScript (fetch API)
 
 # 🔑 APi
+
 [OpenWeatherMap] (https://openweathermap.org/api)
